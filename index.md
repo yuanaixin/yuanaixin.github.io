@@ -3,7 +3,7 @@ layout: page
 title: about me
 ---
 
-![logo](pics/picsavatar.jpg)
+![avatar](pics/picsavatar.jpg){:width="35%" }{:style="float:left; margin-right:30px; margin-top: 6px;"}
 
 I am a PhD student from School of Culture, Languages and Linguistics at the University of Auckland. I currently work with my supervisor Jason Brown and Karen Huang on High Vowel Fricativization in Changzhou Chinese. My research focuses on the factors from phonetic and phonological structure that induce high vowel to transition into fricative vowel.
 
