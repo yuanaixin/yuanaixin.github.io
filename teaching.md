@@ -5,11 +5,14 @@ permalink: /teaching/
 ---
 
 
-# Graduate Teaching Assistant
+# Teaching
 
-I have been teaching in the University of Auckland in courses:
+I have been teaching at [University of Auckland](https://www.auckland.ac.nz/en.html) as a Graduate Teaching Assistant in courses:
 
-* 2024 CHINESE 200 Intermediate Modern Chinese 1
-* 2023 CHINESE 101 Beginning Mordern Chinese 2
-* 2023 CHINESE 201 Intermediate Modern Chinese 2
+* **2024** [CHINESE 200 Intermediate Modern Chinese 1](https://www.artsfaculty.auckland.ac.nz/courses/?Subject=CHINESE&Number=200&Year=2024)
+* **2023** [CHINESE 101 Beginning Modern Chinese 2](https://www.artsfaculty.auckland.ac.nz/courses/?Subject=CHINESE&Number=101&Year=2024)
+* **2023** [CHINESE 201 Intermediate Modern Chinese 2](https://www.artsfaculty.auckland.ac.nz/courses/?Subject=CHINESE&Number=201&Year=2024)
 
+I was also an English language tutor at [New Oriental Education & Technology Group](https://www.neworiental.org/english/) from 2020 to 2022, tutoring IELTS listening, speaking, reading and writing.
+
+I am always passionate about teaching. I enjoy putting myself in the students' shoes and considering what teaching methods are best suited for them. I try various teaching techniques in the classroom, such as games (e.g. [blooket](https://www.blooket.com/)), hands-on activities, role-playing, teamwork, brainstorming (e.g. [padlet](https://padlet.com/)).
