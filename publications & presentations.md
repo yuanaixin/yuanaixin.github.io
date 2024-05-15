@@ -7,16 +7,16 @@ permalink: /research/
 
 # Current projects
 
-My research projects are as follows:
+The research projects I'm currently working on are as follows:
 
-* PROJECT A
-* PROJECT B
+* Tone-induced fricativization of Changzhou Chinese (PhD thesis)
+* Additional language acquisition by bilingual (Mandarin Chinese & Changzhou Chinese) and monolingual (Mandarin Chinese) speakers
 
 
 # Publications
 
-* MY PUBLICATIONS
+* Yuan, Aixin & Brown, Jason. 2024. Tonal register as a motivation for change: a case of High Vowel Fricativization in Changzhou Chinese. Proceedings of the 12th International Conference on Speech Prosody. (to appear)
 
 # Presentations
 
-* MY CONFERENCE TALKS and POSTERS
+* Tonal register as a motivation for change: a case of High Vowel Fricativization in Changzhou Chinese. [Speech Prosody 2024](https://www.universiteitleiden.nl/sp2024) (w/ [Jason Brown](https://profiles.auckland.ac.nz/jason-brown))
