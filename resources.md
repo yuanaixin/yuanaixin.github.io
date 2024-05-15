@@ -5,10 +5,15 @@ permalink: /resources/
 ---
 
 
-# Current projects
+# Praat scripts
 
-Hi
+xxx under construction xxx
 
-* A
-* B
+* Filter & downsample
+* Add textgrids
+* Extract sounds and textgrids
+* Browse & Save
 
+# R scripts
+
+coming soooooon...
